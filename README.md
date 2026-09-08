@@ -238,3 +238,6 @@ This repository serves as the official landing page for Typing Tutor. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Typing Tutor today!**
+
+---
+**Last updated:** 2026-09-08 20:30:49 UTC
